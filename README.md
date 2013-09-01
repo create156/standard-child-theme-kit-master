@@ -25,9 +25,9 @@ There are two ways to install WordPress themes / child themes: via the WordPress
 ### Using FTP
 
 1. Download the [Standard Child Theme Kit](https://github.com/create156/standard-child-theme-kit-master/archive/master.zip).
-2. Unzip the ```eightbit-standard-child-theme-kit.zip``` archive on your computer.
+2. Unzip the ```standard-child-theme-kit.zip``` archive on your computer.
 3. Connect to your server via FTP.
-4. Upload the extracted ```eightbit-standard-child-theme-kit``` directory to the ```/wp-content/themes/``` directory on your server.
+4. Upload the extracted ```tandard-child-theme-kit``` directory to the ```/wp-content/themes/``` directory on your server.
 6. In the WordPress Dashboard, navigate to the "Themes" page under the "Appearance" menu.
 7. Locate "Standard Child Theme Kit" and click "Activate".
 
