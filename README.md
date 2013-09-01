@@ -2,9 +2,9 @@
 
 ## Description
 
-This is a "getting started" child theme kit for [Standard](http://standardtheme.com), crafted by [8BIT](http://8bit.io).
+This is a "getting started" child theme kit for Standard 3, crafted by [8BIT](http://8bit.io).
 
-The [Standard Child Theme Kit](https://github.com/eightbit/standard-child-theme-kit) requires Standard 3.
+The [Standard Child Theme Kit](https://github.com/create156/standard-child-theme-kit-master/archive/master.zip) requires Standard 3.
 
 ## Installation
 
@@ -14,7 +14,7 @@ There are two ways to install WordPress themes / child themes: via the WordPress
 
 ### Using the WordPress Dashboard
 
-1. Download the [Standard Child Theme Kit](https://github.com/eightbit/standard-child-theme-kit/zipball/master).
+1. Download the [Standard Child Theme Kit](https://github.com/create156/standard-child-theme-kit-master/archive/master.zip).
 2. Locate the "Appearance" menu.
 3. In the "Appearance" menu, click on "Themes".
 4. On the "Themes" page, click on the "Install Themes" tab.
@@ -24,7 +24,7 @@ There are two ways to install WordPress themes / child themes: via the WordPress
 
 ### Using FTP
 
-1. Download the [Standard Child Theme Kit](https://github.com/eightbit/standard-child-theme-kit/zipball/master).
+1. Download the [Standard Child Theme Kit](https://github.com/create156/standard-child-theme-kit-master/archive/master.zip).
 2. Unzip the ```eightbit-standard-child-theme-kit.zip``` archive on your computer.
 3. Connect to your server via FTP.
 4. Upload the extracted ```eightbit-standard-child-theme-kit``` directory to the ```/wp-content/themes/``` directory on your server.
@@ -40,7 +40,7 @@ If you happened to name Standard 3 theme directory anything else besides "standa
 ## Frequently Asked Questions
 
 ### Where can I find support?
-* On our [support forum](http://support.8bit.io).
+* No where, officially. 8BIT has officially closed for business, so this theme is now provided as-is.
 
 ## Credit
 
